@@ -1,0 +1,14 @@
+[user]
+	name = VinhNT
+	email = vinhpro406@gmail.com
+[credential]
+	helper = store
+[safe]
+	directory = /run/media/vinh406/01D9B7384A647750/projects/internship_D2
+	directory = /run/media/vinh406/01D9B7384A647750/projects/Secret Monitor/internship_D2
+	directory = /run/media/vinh406/e2e034cf-91c6-9465-c69f-7401f583884b/projects/HMM-Sequence-Alignment
+	directory = /run/media/vinh406/e2e034cf-91c6-9465-c69f-7401f583884b/projects/ai-video-summarizer
+	directory = /run/media/vinh406/e2e034cf-91c6-9465-c69f-7401f583884b/projects/canny_edge_detector
+	directory = /run/media/vinh406/e2e034cf-91c6-9465-c69f-7401f583884b/projects/uet-graduation-latex
+[core]
+	fileMode = false
